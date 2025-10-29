@@ -1,5 +1,5 @@
 
-# Bok Finder Application  
+# Book Finder Application  
 A modern, responsive React application for discovering books from around the world. Built with a beautiful minimalist design and smooth animations to provide an exceptional user experience.
 
 ---
@@ -8,7 +8,7 @@ A modern, responsive React application for discovering books from around the wor
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Prerequisites](#prerequisites)  
-- [Getting Started](#getting-started)  
+- [Getting Started](#getting-started)   
   - [Frontend Setup](#frontend-setup)    
 - [Running the Application](#running-the-application)  
 - [API Documentation](#api-documentation)  
@@ -43,7 +43,7 @@ Make sure you have the following installed on your system:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Frontend Setup
 
