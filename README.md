@@ -133,7 +133,7 @@ Responses:
 
 ## Demo
 Check out the live version of the application:
-- Frontend(When you search book it will give a free tier of lots of books which you can filter it🫡): [https://currency-convertor-frontend.vercel.app](https://currency-convertor-frontend.vercel.app/)
+- Frontend(When you search book it will give a free tier of lots of books which you can filter it🫡): [https://book-finder-tau-fawn.vercel.app](https://book-finder-tau-fawn.vercel.app)
 
   - Method: GET
   - Request Body:
